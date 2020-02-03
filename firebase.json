@@ -2,6 +2,7 @@
   "hosting": {
     "site": "curlybrace",
     "public": "public",
+    "cleanUrls": true,
     "ignore": [
       "firebase.json",
       "**/.*",
