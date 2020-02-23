@@ -1230,6 +1230,7 @@ input::-webkit-input-placeholder {
 .menu-bar #logo{
     margin: 27px 0 26px 0;
 }
+
 .menu-bar #main-nav > ul > li:last-child .sub-menu{
     left: auto;
     right: 0;
