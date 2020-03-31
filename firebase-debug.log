@@ -1,0 +1,29 @@
+[debug] [2020-03-31T17:21:18.852Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T17:21:18.856Z] Command:       /usr/bin/node /usr/local/bin/firebase serve --host 127.0.0.1
+[debug] [2020-03-31T17:21:18.856Z] CLI Version:   7.16.1
+[debug] [2020-03-31T17:21:18.856Z] Platform:      linux
+[debug] [2020-03-31T17:21:18.856Z] Node Version:  v10.15.2
+[debug] [2020-03-31T17:21:18.859Z] Time:          Tue Mar 31 2020 22:51:18 GMT+0530 (India Standard Time)
+[debug] [2020-03-31T17:21:18.859Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T17:21:18.859Z] 
+[debug] [2020-03-31T17:21:18.871Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-31T17:21:18.871Z] > authorizing via signed-in user
+[debug] [2020-03-31T17:21:18.871Z] [iam] checking project digiweb for permissions ["firebase.projects.get"]
+[debug] [2020-03-31T17:21:18.876Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-03-31T17:21:18.877Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-03-31T17:21:19.266Z] <<< HTTP RESPONSE 200
+[debug] [2020-03-31T17:21:19.276Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/digiweb:testIamPermissions  
+
+[debug] [2020-03-31T17:21:21.020Z] <<< HTTP RESPONSE 200
+[debug] [2020-03-31T17:21:21.026Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/digiweb  
+ 
+[debug] [2020-03-31T17:21:21.917Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/home/raja/Documents/curlybrace'...
+[info] 
+[debug] [2020-03-31T17:21:21.928Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/digiweb/webApps/-/config  
+ 
+[debug] [2020-03-31T17:21:23.977Z] <<< HTTP RESPONSE 200
+[info] i  hosting[curlybrace]: Serving hosting files from: public
+[info] ✔  hosting[curlybrace]: Local server: http://127.0.0.1:5000
