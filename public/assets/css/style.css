@@ -2624,14 +2624,38 @@ Partner Area CSS
 
 .our-clients-list .single-clients:nth-child(5) {
   border-right: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
 }
 
 .our-clients-list .single-clients:nth-child(6) {
   border-right: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
 }
 
 .our-clients-list .single-clients:nth-child(7) {
   border-right: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.our-clients-list .single-clients:nth-child(8) {
+  border-right: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+}
+.our-clients-list .single-clients:nth-child(9) {
+  border-right: 1px solid #eeeeee;
+  
+}
+.our-clients-list .single-clients:nth-child(10) {
+  border-right: 1px solid #eeeeee;
+  
+}
+.our-clients-list .single-clients:nth-child(11) {
+  border-right: 1px solid #eeeeee;
+  
+}
+.our-clients-list .single-clients:nth-child(12) {
+ 
+  
 }
 
 .our-clients-list .single-clients:hover {

@@ -2456,24 +2456,35 @@ Partner Area CSS
         }
         &:nth-child(4) {
             border: {
+                right: 1px solid #eeeeee;
                 bottom: 1px solid #eeeeee;
             }
         }
         &:nth-child(5) {
             border: {
                 right: 1px solid #eeeeee;
+                bottom: 1px solid #eeeeee;
             }
         }
         &:nth-child(6) {
             border: {
                 right: 1px solid #eeeeee;
+                bottom: 1px solid #eeeeee;
             }
         }
         &:nth-child(7) {
             border: {
                 right: 1px solid #eeeeee;
+                bottom: 1px solid #eeeeee;
             }
         }
+        &:nth-child(8) {
+            border: {
+                  bottom: 1px solid #eeeeee;
+            }
+        }
+        
+        
         &:hover {
             transform: scale(1.1);
             box-shadow: 0 0 40px 3px rgba(0, 0, 0, 0.05);
