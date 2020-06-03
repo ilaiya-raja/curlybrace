@@ -199,7 +199,7 @@ img {
 .form-control {
   height: 45px;
   border: 1px solid #eeeeee;
-  background-color: transparent;
+  background-color: #eeeeee;
   border-radius: 0;
   -webkit-transition: 0.5s;
   transition: 0.5s;
